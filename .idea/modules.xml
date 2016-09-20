@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/dboesen/Metric2EnglishDaveB/Metric2EnglishDaveB.iml" filepath="/Volumes/DATA/Users/dboesen/Metric2EnglishDaveB/Metric2EnglishDaveB.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/dboesen/Metric2EnglishDaveB/app/app.iml" filepath="/Volumes/DATA/Users/dboesen/Metric2EnglishDaveB/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/dboesen/Metric2EnglishDaveB/lib/lib.iml" filepath="/Volumes/DATA/Users/dboesen/Metric2EnglishDaveB/lib/lib.iml" />
+    </modules>
+  </component>
+</project>
